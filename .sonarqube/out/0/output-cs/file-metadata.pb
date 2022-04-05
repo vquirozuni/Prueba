@@ -1,0 +1,16 @@
+_
+VC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\App_Start\WebApiConfig.csutf-8k
+bC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Controllers\TokenValidationHandler.csutf-8h
+_C:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Controllers\CustomersController.csutf-8d
+[C:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Controllers\LoginController.csutf-8k
+bC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Controllers\RatificacionController.csutf-8c
+ZC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Controllers\TokenGenerator.csutf-8V
+MC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Data\Conexion.csutf-8^
+UC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Data\RatificacionData.csutf-8T
+KC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Global.asax.csutf-8O
+FC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Logger.csutf-8\
+SC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Models\JsonResponse.csutf-8\
+SC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Models\LoginRequest.csutf-8\
+SC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Models\Ratificacion.csutf-8`
+WC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\Properties\AssemblyInfo.csutf-8„
+yC:\Users\eduar\Documents\Proyectos_NET\ProyectoWebAPI\WebAPI\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8

@@ -1,0 +1,6 @@
+projectKey=Ratificacion_v3
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=Ratificacion_v3
+ceTaskId=AX-dKGHW12UJExOiu82N
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX-dKGHW12UJExOiu82N
